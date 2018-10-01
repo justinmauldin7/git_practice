@@ -18,3 +18,10 @@ This is my fifth set of changes to this file.
 This is my sixth set of changes to this file that I am making on "Branch_2"
 
 This is my seventh set of changes to this file and I am making them on "Branch_2"
+
+
+This is my eighth set of changes to this file and I am making them on a new branch called: "Branch_3"
+
+This is my ninth set of changes to this file and I am making them on "Branch_3"
+
+This is my tenth set of changes to this file and I am making them on "Branch_3"
